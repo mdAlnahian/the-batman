@@ -1,0 +1,10 @@
+.navbar{
+    background-color: rgb(31, 6, 6);
+    border-bottom: 1px solid red;
+    box-shadow: 0 6px 4px 0 rgba(170, 7, 7, 0.2);
+    text-transform: uppercase;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
